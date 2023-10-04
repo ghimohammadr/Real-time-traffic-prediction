@@ -1,4 +1,4 @@
-# Evaluation of incremental deep learning approach on real-time traffic prediction
+# Real-time traffic prediction
 
 The code is a Python script designed for real-time series forecasting. It trains the model on a portion of the data, performs rolling window on the remaining data points to update the model without the need to update from scratch, and evaluates the model's performance using metrics like Mean Squared Error (MSE).
 
